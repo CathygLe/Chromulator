@@ -34,8 +34,7 @@ const number = document.querySelectorAll(".numbers").forEach(function (item) {
   });
 
 
-
-// Adding the functionality to update colors
+  // Adding the functionality to update colors
 const backgroundColorInput = document.getElementById("background-color");
 const buttonColorInput = document.getElementById("button-color");
 const keyColorInput = document.getElementById("key-color");
